@@ -1,6 +1,6 @@
 import time
 
-print """This Brooklyn 99-themed Text Adventure was lovingly created as a way to practice Python, have some fun writing, and pay homage to an amazing show. In this choose your own adventure-meets-madlibs game, you'll fill in words and make decisions to progress. I you have as much fun running this silly little program as I did writing it! (Side note; I know the timing is a thing... try to see past it.)"""
+print """This Brooklyn 99-themed Text Adventure was lovingly created as a way to practice Python, have some fun writing, and pay homage to an amazing show. In this choose your own adventure-meets-madlibs game, you'll fill in words and make decisions to progress. I you have as much fun running this silly little program as I did writing it!"""
 time.sleep(8)
 
 noun_1 = raw_input("To start your adventure, choose a noun: ").lower()
